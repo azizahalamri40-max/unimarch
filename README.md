@@ -48,8 +48,8 @@ Akun berikut khusus untuk demo dan penilaian.
 
 - PHP dan framework Laravel
 - MySQL
-- Blade (templating)
-- Chart.js (grafik di dashboard, dimuat lewat CDN)
+- Blade (templating), HTML, dan CSS kustom (tanpa framework CSS)
+- JavaScript, termasuk Chart.js untuk grafik di dashboard (dimuat lewat CDN)
 - Composer (pengelola dependensi PHP)
 
 ## Cara Instalasi Lokal
