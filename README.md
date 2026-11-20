@@ -1,6 +1,6 @@
 # UNIMARCH - UNIMA Archive Management
 
-Sistem arsip surat perpustakaan berbasis web. UNIMARCH membantu pencatatan, pemrosesan, disposisi, dan pengarsipan surat dalam satu alur, dari pengirim, staff, hingga pimpinan.
+Sistem arsip surat perpustakaan UNIMA berbasis web. UNIMARCH membantu pencatatan, pemrosesan, disposisi, dan pengarsipan surat dalam satu alur, dari pengirim, staff, hingga pimpinan.
 
 **Live demo:** https://unimarch.my.id
 
